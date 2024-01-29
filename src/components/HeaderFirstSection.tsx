@@ -23,7 +23,7 @@ export const HeaderFirstSection = ({
       </Button>
       <a href="/" className="flex items-center justify-center gap-1">
         <img src={logo} alt="logo" className="h-6" />
-        <span>FlickFrame</span>
+        <span>MyTube</span>
       </a>
     </div>
   );
